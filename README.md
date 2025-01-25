@@ -1,6 +1,12 @@
-**Dataset**: Kaggle dataset with news articles metadata, including headlines and short snippets.
+# Technical Test for Data Scientist position in Opportunity Network
 
-**Main libraries used**: pandas, nltk, scikit-learn, langdetect, matplotlib, seaborn, wordcloud.
+**Date**: March 2023
+
+**Language**: Python
+
+**Dataset**: Kaggle dataset with news articles metadata, including headlines and short snippets
+
+**Main libraries used**: pandas, nltk, scikit-learn, langdetect, matplotlib, seaborn, wordcloud
 
 **Tasks performed**:
 - EDA
